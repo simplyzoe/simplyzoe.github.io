@@ -1,0 +1,19 @@
+.profilepic {
+	max-width: 100%
+}
+
+.containerback {
+    background-image: url("../img/sidebarbackground.jpg");
+}
+
+.myprogress::-webkit-progress-value {
+	background-color: hotpink !important;
+}
+
+.mybar::-webkit-progress-bar {
+	background-color: lightgrey !important;
+}
+
+.navbar {
+  background-color: lightblue !important;
+}

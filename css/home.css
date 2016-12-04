@@ -10,3 +10,14 @@
   background-color: lightblue !important;
 }
 
+.body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.jumbotron {
+  background-image: url("../img/homebackground.jpg");
+  background-size: cover;
+  color: white;
+}
